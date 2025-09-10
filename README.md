@@ -84,7 +84,7 @@ Solana Explorer에서 실시간 토큰 정보를 확인하세요:
 
 자세한 프로젝트 정보는 다음 문서를 참조하세요:
 
-- [TINA 프로젝트 소개서](document/TINA_Project_Introduction_v1.1_EN_250820.pdf)
+- [TINA 토큰 오딧 보고서](document/CertoraToken2022Audit-2024-05-24.pdf)
 - [Token 2022 프로그램 공식 문서](https://spl.solana.com/token-2022)
 - [Solana 개발자 문서](https://docs.solana.com/)
 
