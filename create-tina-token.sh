@@ -103,8 +103,8 @@ create_token() {
     print_info "토큰 계정을 생성하는 중..."
     spl-token create-account "$token_mint" --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
     
-    # 초기 공급량 설정 (예: 1,000,000,000 TINA)
-    local initial_supply="1000000000"
+    # 초기 공급량 설정 (예: 5,000,000,000 TINA)
+    local initial_supply="5000000000"
     print_info "초기 공급량을 설정하는 중... ($initial_supply TINA)"
     spl-token mint "$token_mint" "$initial_supply" --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
     
