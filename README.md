@@ -98,10 +98,6 @@ TINA 토큰 프로젝트에 기여하고 싶으시다면:
 4. 브랜치에 푸시하세요 (`git push origin feature/amazing-feature`)
 5. Pull Request를 생성하세요
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
 ## 🔗 링크
 
 - **Solana Explorer**: [TINA 토큰 정보](https://explorer.solana.com/address/BJUP7hZoN8GFunH3ucrdBjuphyz2Ryg1R8pt3D4tm6wZ)
