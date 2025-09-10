@@ -58,6 +58,24 @@ solana config set --url https://api.testnet.solana.com
 solana config set --url https://api.mainnet-beta.solana.com
 ```
 
+### 4. TINA 토큰 생성
+
+Token 2022 프로그램을 사용하여 TINA 토큰을 생성할 수 있습니다:
+
+```bash
+# 스크립트 실행 권한 부여
+chmod +x create-tina-token.sh
+
+# TINA 토큰 생성 스크립트 실행
+./create-tina-token.sh
+```
+
+**스크립트 기능:**
+- Solana CLI 및 지갑 상태 확인
+- Token 2022 프로그램 사용
+- 토큰 생성 및 초기 공급량 설정
+- Solana Explorer 및 SolScan 링크 제공
+
 ## 🔧 Token 2022 프로그램
 
 TINA 토큰은 Solana의 Token 2022 프로그램을 사용합니다. 이는 기존 SPL Token 프로그램의 향상된 버전으로 다음과 같은 기능을 제공합니다:
