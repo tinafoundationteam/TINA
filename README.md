@@ -134,10 +134,6 @@ TINA 토큰 프로젝트에 기여하고 싶으시다면:
 - **Solana Explorer**: [TINA 토큰 정보](https://explorer.solana.com/address/BJUP7hZoN8GFunH3ucrdBjuphyz2Ryg1R8pt3D4tm6wZ)
 - **SolScan**: [TINA 토큰 정보](https://solscan.io/token/BJUP7hZoN8GFunH3ucrdBjuphyz2Ryg1R8pt3D4tm6wZ)
 
-## ⚠️ 면책 조항
-
-이 프로젝트는 교육 및 개발 목적으로 제공됩니다. 투자 결정을 내리기 전에 충분한 조사를 수행하고, 암호화폐 투자의 위험을 이해하시기 바랍니다.
-
 ---
 
 **TINA Token** - Solana 기반의 차세대 디지털 자산
